@@ -58,7 +58,12 @@ Navigate to http://127.0.0.1:5000/
 ![Credits](https://img.shields.io/badge/Credits-Ilya%20Bronfman-green)
 
 
+## demo 
+https://final-vers.onrender.com/display/loan/
+
 ## Note to Eyal
 - In order to make the testing of late loans easier for you head to init_db.py and remove the # from lines 12 and 19 and remove the Database file (library.sqlite)
 normaly i wouldnt include it but since its a test its there for you.
+https://github.com/jakmarles/Ilya_Bronfman7731_12_Library_project - github
+demo - 
  
