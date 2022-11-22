@@ -8,6 +8,9 @@ import datetime
 
 # Flask constructor
 app = Flask(__name__)
+# remove 12 and 13 eyal they are added for render.com
+Session = sessionmaker(bind=db.engine)  # initialize sessionmaker
+session = Session()  # make Session object
 
 
 @app.route('/')
